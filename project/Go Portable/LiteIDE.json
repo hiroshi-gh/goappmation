@@ -1,7 +1,7 @@
 {
 	"ApplicationName": "LiteIDEWinX{{VERSION}}",
 	"DownloadExtension": ".zip",
-	"DownloadUrl": "http://downloads.sourceforge.net/project/liteide/X{{VERSION}}/liteidex{{VERSION}}.windows-qt4.zip",
+	"DownloadUrl": "https://github.com/visualfc/liteide/releases/download/x{{VERSION}}/liteidex{{VERSION}}-win64-qt5.15.2.zip",
 	"RemoveRootFolder": true,
 	"ExtractRegExList":
 	[
